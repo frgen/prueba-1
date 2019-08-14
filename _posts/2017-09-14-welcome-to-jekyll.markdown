@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my new web!"
+title:  "Bienvenido a mi sitio Web!"
 date:   2017-09-14 20:38:56 +0000
 categories: jekyll update
 ---
