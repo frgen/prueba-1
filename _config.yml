@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   en algunos lenguajes de programación tales como C, C++, Arduino, Python,
   JavaScript, HTML y CSS. Cualquier duda o consulta no dudes en contactarme.
   Saludos!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blogdefederomero91" # the subpath of your site, e.g. /blog
 url: "http://blogdefederomero91.com" # the base hostname & protocol for your site
 github_username:  frgen
 
