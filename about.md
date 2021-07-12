@@ -1,5 +1,9 @@
 ---
 layout: page
+title: Ayuda
+permalink: /about/
+
+layout: home
 title: Nosotros
 permalink: /about/
 ---
