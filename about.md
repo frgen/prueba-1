@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ayuda
+title: Acerca de
 permalink: /about/
 ---
 
